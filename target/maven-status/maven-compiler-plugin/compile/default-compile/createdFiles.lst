@@ -1,0 +1,8 @@
+com\mycompany\spendwisefx\Expense.class
+com\mycompany\spendwisefx\SystemInfo.class
+com\mycompany\spendwisefx\Transaction.class
+module-info.class
+com\mycompany\spendwisefx\Income.class
+com\mycompany\spendwisefx\Budget.class
+com\mycompany\spendwisefx\Main.class
+com\mycompany\spendwisefx\App.class
