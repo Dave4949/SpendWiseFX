@@ -5,12 +5,15 @@ import javafx.scene.Scene;
 import javafx.scene.control.Label;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
+import javafx.scene.control.Button;
 
 
 /**
  * JavaFX App
  */
 public class App extends Application {
+    
+    private Button income, expense;
 
     @Override
     public void start(Stage stage) {
